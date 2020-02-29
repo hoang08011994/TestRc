@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Nguyen Quang Vinh",
+        "tel":"09000000",
+        "Permission": 1
+    },
+    {
+        "id":2,
+        "name":"Tran Quang Minh",
+        "tel":"190017580",
+        "Permission": 2
+    },
+    {
+        "id":3,
+        "name":"Doan Van Hau",
+        "tel":"19001567",
+        "Permission": 3
+    },
+    {
+        "id":4,
+        "name":"Luu Van Quang",
+        "tel":"19002000",
+        "Permission": 2
+    },
+    {
+        "id":5,
+        "name":"Buu Ngoc Minh",
+        "tel":"+8412344566",
+        "Permission": 1
+    }
+]
